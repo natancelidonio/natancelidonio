@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @natancelidonio
-- 🌱 I’m currently learning Java
-- 📫 How to reach me https://www.linkedin.com/in/natan-celidonio-fernandes/
-- ⚡ Fun fact: I was in the agroforestry area for a few years, and now I'm learning how to code to help farmers!
